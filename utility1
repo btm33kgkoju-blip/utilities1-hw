@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>Coding</title>
+     <meta charset="utf-8">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <center><div class="jumbotron">
+      <h1 class="display-4">Codingal</h1>
+      <p class="lead">To allow youngsters to fall in love with coding</p>
+      <hr class="my-4"></center>
+    </div>
+    <p>Coding helps everyone.Some of the advantage are:
+      <p><button type="button" class="btn btn-primary">1.To create programs</button></p>
+      <p><button type="button" class="btn btn-secondary">2.To help in getting jobs</button></p>
+      <p><button type="button" class="btn btn-success">3.For fun</button></p></p>
+    <p>This is progress bar
+    <div class="progress">
+     <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+     </div>
+    <div class="progress">
+     <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+     </div>
+    <div class="progress">
+     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+     </div>
+    <div class="progress">
+     <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+     </div>
+    <div class="progress">
+     <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+     </div></p>
+    <p>Thanks for your time! We give you this badge for your patience.</p>
+    <h1><span class="badge badge-secondary">Coding's good friend</span></h1>
